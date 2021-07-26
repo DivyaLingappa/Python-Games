@@ -25,5 +25,6 @@ def main():
     else:
         print("This is not a valid credit card")
 
-main()
+if __name__=='__main__':
+     main()
 
