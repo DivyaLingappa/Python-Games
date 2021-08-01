@@ -1,1 +1,2 @@
 - ![Snake Game Demo](demo/snake_game.gif)
+- ![Pong Game Demo](demo/pong-game.gif)
