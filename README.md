@@ -1,3 +1,3 @@
-- ![Snake Game Demo](demo/snake-game.gif)
+- ![Turtle Crossing Game Demo](demo/turtle-crossing-game.gif)
 - ![Pong Game Demo](demo/pong-game.gif)
-- ![Turtle Race Game Demo](demo/turtle-crossing-game.gif)
+- ![Snake Game Demo](demo/snake-game.gif)
